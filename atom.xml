@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://arroganttonone.club/"/>
-  <updated>2017-06-29T16:11:03.434Z</updated>
+  <updated>2017-06-29T23:22:35.141Z</updated>
   <id>http://arroganttonone.club/</id>
   
   <author>
@@ -14,33 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>笔记：How the immune system works Chapter 1</title>
-    <link href="http://arroganttonone.club/2017/06/30/20170628-how-the-immune-system-works-chapter-1/"/>
-    <id>http://arroganttonone.club/2017/06/30/20170628-how-the-immune-system-works-chapter-1/</id>
-    <published>2017-06-30T14:12:43.000Z</published>
-    <updated>2017-06-29T16:11:03.434Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;overview&quot;&gt;&lt;a href=&quot;#overview&quot; class=&quot;headerlink&quot; title=&quot;overview&quot;&gt;&lt;/a&gt;overview&lt;/h2&gt;&lt;hr&gt;
-&lt;h3 id=&quot;introduction&quot;&gt;&lt;a href=&quot;#introduction&quot; class=&quot;headerlink&quot; title=&quot;introduction&quot;&gt;&lt;/a&gt;introduction&lt;/h3&gt;&lt;h4 id=&quot;学习免疫的三个难点&quot;&gt;&lt;a href=&quot;#学习免疫的三个难点&quot; class=&quot;headerlink&quot; title=&quot;学习免疫的三个难点&quot;&gt;&lt;/a&gt;学习免疫的三个难点&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;细节很多&lt;/li&gt;
-&lt;li&gt;规律有异常的存在&lt;/li&gt;
-&lt;li&gt;免疫学还有很多东西是未知的&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="医学笔记" scheme="http://arroganttonone.club/categories/%E5%8C%BB%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
-    
-      <category term="How the immune system works" scheme="http://arroganttonone.club/categories/%E5%8C%BB%E5%AD%A6%E7%AC%94%E8%AE%B0/How-the-immune-system-works/"/>
-    
-    
-      <category term="immunology" scheme="http://arroganttonone.club/tags/immunology/"/>
-    
-  </entry>
   
   <entry>
     <title>关于搭建这个博客</title>
@@ -59,6 +32,27 @@
     
     
       <category term="博客搭建 域名 github" scheme="http://arroganttonone.club/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-%E5%9F%9F%E5%90%8D-github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://arroganttonone.club/2017/06/29/20170628-how-the-immune-system-works-chapter-1/"/>
+    <id>http://arroganttonone.club/2017/06/29/20170628-how-the-immune-system-works-chapter-1/</id>
+    <published>2017-06-29T15:58:05.746Z</published>
+    <updated>2017-06-30T06:20:01.339Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;p&gt;title: 笔记：How the immune system works Chapter 1&lt;br&gt;date: 2017-06-30 22:12:43&lt;br&gt;tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;immunology &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;categor
+    
+    </summary>
+    
     
   </entry>
   
@@ -85,6 +79,22 @@
       <category term="释经" scheme="http://arroganttonone.club/tags/%E9%87%8A%E7%BB%8F/"/>
     
       <category term="《How to read bible for all its worth》" scheme="http://arroganttonone.club/tags/%E3%80%8AHow-to-read-bible-for-all-its-worth%E3%80%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hlesson 7 The Person and Ministry of the Holy Spirit</title>
+    <link href="http://arroganttonone.club/2017/06/29/lesson7/"/>
+    <id>http://arroganttonone.club/2017/06/29/lesson7/</id>
+    <published>2017-06-29T13:51:03.000Z</published>
+    <updated>2017-06-30T13:00:39.757Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;lesson-7-The-Person-and-Ministry-of-the-Holy-Spirit&quot;&gt;&lt;a href=&quot;#lesson-7-The-Person-and-Ministry-of-the-Holy-Spirit&quot; class=&quot;headerlin
+    
+    </summary>
+    
     
   </entry>
   
@@ -188,32 +198,6 @@
   </entry>
   
   <entry>
-    <title>关于黄疸</title>
-    <link href="http://arroganttonone.club/2017/03/08/20170415%E9%BB%84%E7%96%B8/"/>
-    <id>http://arroganttonone.club/2017/03/08/20170415黄疸/</id>
-    <published>2017-03-08T14:12:43.000Z</published>
-    <updated>2017-06-29T15:43:02.345Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;jaundice-黄疸&quot;&gt;&lt;a href=&quot;#jaundice-黄疸&quot; class=&quot;headerlink&quot; title=&quot;jaundice 黄疸&quot;&gt;&lt;/a&gt;jaundice 黄疸&lt;/h1&gt;&lt;p&gt;由于胆红素（bilirubin）在组织中推及，引起的皮肤，眼结膜，黏膜变黄。一般是由肝病和胆道疾病引起的。&lt;/p&gt;
-&lt;p&gt;早在希波克拉底时期，就有对黄疸的论述了，在十九世纪，就有了对黄疸的分类了。由胆道阻塞引起的，和不由其引起的。直到二十世纪，人们阐明了胆红素的代谢过程以及相应的检查技术得到发展，才得以对大部分黄疸病例给出解释。&lt;/p&gt;
-&lt;p&gt;虽然技术先进了，但是仍然要以耐心仔细的筛查和合适的诊断和治疗手段为基础，来对一些疑似的病例进行区分。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="医学笔记" scheme="http://arroganttonone.club/categories/%E5%8C%BB%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="jaundice" scheme="http://arroganttonone.club/tags/jaundice/"/>
-    
-      <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
-    
-      <category term="黄疸" scheme="http://arroganttonone.club/tags/%E9%BB%84%E7%96%B8/"/>
-    
-  </entry>
-  
-  <entry>
     <title>医院常检查  血常规 complete blood test （CBC）</title>
     <link href="http://arroganttonone.club/2017/03/08/20170308%E8%A1%80%E5%B8%B8%E8%A7%84/"/>
     <id>http://arroganttonone.club/2017/03/08/20170308血常规/</id>
@@ -235,9 +219,35 @@
       <category term="医学笔记" scheme="http://arroganttonone.club/categories/%E5%8C%BB%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
     
     
+      <category term="CBC" scheme="http://arroganttonone.club/tags/CBC/"/>
+    
       <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
     
-      <category term="CBC" scheme="http://arroganttonone.club/tags/CBC/"/>
+  </entry>
+  
+  <entry>
+    <title>关于黄疸</title>
+    <link href="http://arroganttonone.club/2017/03/08/20170415%E9%BB%84%E7%96%B8/"/>
+    <id>http://arroganttonone.club/2017/03/08/20170415黄疸/</id>
+    <published>2017-03-08T14:12:43.000Z</published>
+    <updated>2017-06-29T15:43:02.345Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;jaundice-黄疸&quot;&gt;&lt;a href=&quot;#jaundice-黄疸&quot; class=&quot;headerlink&quot; title=&quot;jaundice 黄疸&quot;&gt;&lt;/a&gt;jaundice 黄疸&lt;/h1&gt;&lt;p&gt;由于胆红素（bilirubin）在组织中推及，引起的皮肤，眼结膜，黏膜变黄。一般是由肝病和胆道疾病引起的。&lt;/p&gt;
+&lt;p&gt;早在希波克拉底时期，就有对黄疸的论述了，在十九世纪，就有了对黄疸的分类了。由胆道阻塞引起的，和不由其引起的。直到二十世纪，人们阐明了胆红素的代谢过程以及相应的检查技术得到发展，才得以对大部分黄疸病例给出解释。&lt;/p&gt;
+&lt;p&gt;虽然技术先进了，但是仍然要以耐心仔细的筛查和合适的诊断和治疗手段为基础，来对一些疑似的病例进行区分。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="医学笔记" scheme="http://arroganttonone.club/categories/%E5%8C%BB%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
+    
+      <category term="jaundice" scheme="http://arroganttonone.club/tags/jaundice/"/>
+    
+      <category term="黄疸" scheme="http://arroganttonone.club/tags/%E9%BB%84%E7%96%B8/"/>
     
   </entry>
   
