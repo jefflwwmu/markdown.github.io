@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://arroganttonone.club/"/>
-  <updated>2017-06-30T13:16:54.661Z</updated>
+  <updated>2017-07-05T14:36:21.766Z</updated>
   <id>http://arroganttonone.club/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>好医生第五天</title>
+    <link href="http://arroganttonone.club/2017/07/05/%E5%A5%BD%E5%8C%BB%E7%94%9F%E7%AC%AC%E4%BA%94%E5%A4%A9/"/>
+    <id>http://arroganttonone.club/2017/07/05/好医生第五天/</id>
+    <published>2017-07-05T14:34:58.000Z</published>
+    <updated>2017-07-05T14:36:21.766Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;好医生第五天&quot;&gt;&lt;a href=&quot;#好医生第五天&quot; class=&quot;headerlink&quot; title=&quot;好医生第五天&quot;&gt;&lt;/a&gt;好医生第五天&lt;/h2&gt;&lt;p&gt;今天去了儿童医院的康复科。&lt;br&gt;儿科+康复 需要更多的耐心和不同于成人的医学储备。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="好医生" scheme="http://arroganttonone.club/categories/%E5%A5%BD%E5%8C%BB%E7%94%9F/"/>
+    
+    
+      <category term="见习, 康复科, 儿科" scheme="http://arroganttonone.club/tags/%E8%A7%81%E4%B9%A0-%E5%BA%B7%E5%A4%8D%E7%A7%91-%E5%84%BF%E7%A7%91/"/>
+    
+  </entry>
   
   <entry>
     <title>笔记：How the immune system works Chapter 1</title>
@@ -186,6 +206,32 @@
   </entry>
   
   <entry>
+    <title>关于黄疸</title>
+    <link href="http://arroganttonone.club/2017/03/08/20170415%E9%BB%84%E7%96%B8/"/>
+    <id>http://arroganttonone.club/2017/03/08/20170415黄疸/</id>
+    <published>2017-03-08T14:12:43.000Z</published>
+    <updated>2017-06-29T15:43:02.345Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;jaundice-黄疸&quot;&gt;&lt;a href=&quot;#jaundice-黄疸&quot; class=&quot;headerlink&quot; title=&quot;jaundice 黄疸&quot;&gt;&lt;/a&gt;jaundice 黄疸&lt;/h1&gt;&lt;p&gt;由于胆红素（bilirubin）在组织中推及，引起的皮肤，眼结膜，黏膜变黄。一般是由肝病和胆道疾病引起的。&lt;/p&gt;
+&lt;p&gt;早在希波克拉底时期，就有对黄疸的论述了，在十九世纪，就有了对黄疸的分类了。由胆道阻塞引起的，和不由其引起的。直到二十世纪，人们阐明了胆红素的代谢过程以及相应的检查技术得到发展，才得以对大部分黄疸病例给出解释。&lt;/p&gt;
+&lt;p&gt;虽然技术先进了，但是仍然要以耐心仔细的筛查和合适的诊断和治疗手段为基础，来对一些疑似的病例进行区分。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="医学笔记" scheme="http://arroganttonone.club/categories/%E5%8C%BB%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="jaundice" scheme="http://arroganttonone.club/tags/jaundice/"/>
+    
+      <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
+    
+      <category term="黄疸" scheme="http://arroganttonone.club/tags/%E9%BB%84%E7%96%B8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>医院常检查  血常规 complete blood test （CBC）</title>
     <link href="http://arroganttonone.club/2017/03/08/20170308%E8%A1%80%E5%B8%B8%E8%A7%84/"/>
     <id>http://arroganttonone.club/2017/03/08/20170308血常规/</id>
@@ -207,35 +253,9 @@
       <category term="医学笔记" scheme="http://arroganttonone.club/categories/%E5%8C%BB%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
     
     
+      <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
+    
       <category term="CBC" scheme="http://arroganttonone.club/tags/CBC/"/>
-    
-      <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>关于黄疸</title>
-    <link href="http://arroganttonone.club/2017/03/08/20170415%E9%BB%84%E7%96%B8/"/>
-    <id>http://arroganttonone.club/2017/03/08/20170415黄疸/</id>
-    <published>2017-03-08T14:12:43.000Z</published>
-    <updated>2017-06-29T15:43:02.345Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;jaundice-黄疸&quot;&gt;&lt;a href=&quot;#jaundice-黄疸&quot; class=&quot;headerlink&quot; title=&quot;jaundice 黄疸&quot;&gt;&lt;/a&gt;jaundice 黄疸&lt;/h1&gt;&lt;p&gt;由于胆红素（bilirubin）在组织中推及，引起的皮肤，眼结膜，黏膜变黄。一般是由肝病和胆道疾病引起的。&lt;/p&gt;
-&lt;p&gt;早在希波克拉底时期，就有对黄疸的论述了，在十九世纪，就有了对黄疸的分类了。由胆道阻塞引起的，和不由其引起的。直到二十世纪，人们阐明了胆红素的代谢过程以及相应的检查技术得到发展，才得以对大部分黄疸病例给出解释。&lt;/p&gt;
-&lt;p&gt;虽然技术先进了，但是仍然要以耐心仔细的筛查和合适的诊断和治疗手段为基础，来对一些疑似的病例进行区分。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="医学笔记" scheme="http://arroganttonone.club/categories/%E5%8C%BB%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
-    
-      <category term="黄疸" scheme="http://arroganttonone.club/tags/%E9%BB%84%E7%96%B8/"/>
-    
-      <category term="jaundice" scheme="http://arroganttonone.club/tags/jaundice/"/>
     
   </entry>
   
