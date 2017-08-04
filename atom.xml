@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://arroganttonone.club/"/>
-  <updated>2017-08-03T10:09:54.035Z</updated>
+  <updated>2017-08-04T12:54:58.000Z</updated>
   <id>http://arroganttonone.club/</id>
   
   <author>
@@ -16,15 +16,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>药理学课本英文部分翻译1</title>
+    <link href="http://arroganttonone.club/2017/08/04/pharmacology1/"/>
+    <id>http://arroganttonone.club/2017/08/04/pharmacology1/</id>
+    <published>2017-08-04T12:08:08.000Z</published>
+    <updated>2017-08-04T12:54:58.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;P6-药物通过细胞屏障的方式&quot;&gt;&lt;a href=&quot;#P6-药物通过细胞屏障的方式&quot; class=&quot;headerlink&quot; title=&quot;P6 药物通过细胞屏障的方式&quot;&gt;&lt;/a&gt;P6 药物通过细胞屏障的方式&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;主要是通过滤过（水溶性扩散），简单扩散（脂溶性扩散），或者载体介导的转运（主动转运或易化扩散）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;药物的脂溶性&lt;/strong&gt;是决定被动扩散速率的主要因素&lt;/li&gt;
+&lt;li&gt;载体介导的转运（e.g.在肾小管，血脑屏障，小肠上皮）对一些和细胞内化学物质相关的药物的转运具有重要作用。&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="http://arroganttonone.club/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="药理学第八版" scheme="http://arroganttonone.club/tags/%E8%8D%AF%E7%90%86%E5%AD%A6%E7%AC%AC%E5%85%AB%E7%89%88/"/>
+    
+      <category term="翻译" scheme="http://arroganttonone.club/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
     <title>PR分享</title>
     <link href="http://arroganttonone.club/2017/08/03/PR%E5%88%86%E4%BA%AB/"/>
     <id>http://arroganttonone.club/2017/08/03/PR分享/</id>
     <published>2017-08-03T10:08:08.000Z</published>
-    <updated>2017-08-03T10:09:54.035Z</updated>
+    <updated>2017-08-04T12:44:41.965Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;PR使用皮毛分享&quot;&gt;&lt;a href=&quot;#PR使用皮毛分享&quot; class=&quot;headerlink&quot; title=&quot;PR使用皮毛分享&quot;&gt;&lt;/a&gt;PR使用皮毛分享&lt;/h1&gt;&lt;h2 id=&quot;1-安装方式&quot;&gt;&lt;a href=&quot;#1-安装方式&quot; class=&quot;headerlink&quot; title=&quot;1.安装方式&quot;&gt;&lt;/a&gt;1.安装方式&lt;/h2&gt;&lt;ul&gt;
+      &lt;h1 id=&quot;Adobe-Premiere-CS6-使用皮毛分享-1&quot;&gt;&lt;a href=&quot;#Adobe-Premiere-CS6-使用皮毛分享-1&quot; class=&quot;headerlink&quot; title=&quot;Adobe Premiere CS6 使用皮毛分享 1&quot;&gt;&lt;/a&gt;Adobe Premiere CS6 使用皮毛分享 1&lt;/h1&gt;&lt;h2 id=&quot;1-安装方式&quot;&gt;&lt;a href=&quot;#1-安装方式&quot; class=&quot;headerlink&quot; title=&quot;1.安装方式&quot;&gt;&lt;/a&gt;1.安装方式&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;百度网盘下载相应版本的 adobe Premiere CS6&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
@@ -138,8 +164,8 @@
   
   <entry>
     <title>笔记：How the immune system works Chapter 1</title>
-    <link href="http://arroganttonone.club/2017/06/30/20170628-how-the-immune-system-works-chapter-1/"/>
-    <id>http://arroganttonone.club/2017/06/30/20170628-how-the-immune-system-works-chapter-1/</id>
+    <link href="http://arroganttonone.club/2017/06/30/2017-06-28-how-the-immune-system-works-chapter-1/"/>
+    <id>http://arroganttonone.club/2017/06/30/2017-06-28-how-the-immune-system-works-chapter-1/</id>
     <published>2017-06-30T14:12:43.000Z</published>
     <updated>2017-06-30T13:16:54.661Z</updated>
     
@@ -183,8 +209,8 @@
   
   <entry>
     <title>How to read bible for all its worth</title>
-    <link href="http://arroganttonone.club/2017/06/29/20170629How-to-read-bible-for-all-its-worth/"/>
-    <id>http://arroganttonone.club/2017/06/29/20170629How-to-read-bible-for-all-its-worth/</id>
+    <link href="http://arroganttonone.club/2017/06/29/How%20to%20read%20bible%20for%20all%20its%20worth/"/>
+    <id>http://arroganttonone.club/2017/06/29/How to read bible for all its worth/</id>
     <published>2017-06-29T13:51:03.000Z</published>
     <updated>2017-06-29T15:45:41.804Z</updated>
     
@@ -209,8 +235,8 @@
   
   <entry>
     <title>班级学习计划分享</title>
-    <link href="http://arroganttonone.club/2017/05/23/20170523%E7%8F%AD%E7%BA%A7%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92%E5%88%86%E4%BA%AB/"/>
-    <id>http://arroganttonone.club/2017/05/23/20170523班级学习计划分享/</id>
+    <link href="http://arroganttonone.club/2017/05/23/%E7%8F%AD%E7%BA%A7%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92%E5%88%86%E4%BA%AB/"/>
+    <id>http://arroganttonone.club/2017/05/23/班级学习计划分享/</id>
     <published>2017-05-23T14:16:12.000Z</published>
     <updated>2017-06-29T13:32:54.100Z</updated>
     
@@ -231,8 +257,8 @@
   
   <entry>
     <title>关于脂质代谢</title>
-    <link href="http://arroganttonone.club/2017/05/07/20170507%E5%85%B3%E4%BA%8E%E8%84%82%E8%B4%A8%E4%BB%A3%E8%B0%A2/"/>
-    <id>http://arroganttonone.club/2017/05/07/20170507关于脂质代谢/</id>
+    <link href="http://arroganttonone.club/2017/05/07/%E5%85%B3%E4%BA%8E%E8%84%82%E8%B4%A8%E4%BB%A3%E8%B0%A2/"/>
+    <id>http://arroganttonone.club/2017/05/07/关于脂质代谢/</id>
     <published>2017-05-07T14:15:46.000Z</published>
     <updated>2017-06-29T13:33:09.523Z</updated>
     
@@ -258,8 +284,8 @@
   
   <entry>
     <title>黄疸的几种类型和主要原理</title>
-    <link href="http://arroganttonone.club/2017/04/20/20170420%E9%BB%84%E7%96%B8%E7%9A%84%E5%87%A0%E7%A7%8D%E7%B1%BB%E5%9E%8B%E5%92%8C%E4%B8%BB%E8%A6%81%E5%8E%9F%E7%90%86/"/>
-    <id>http://arroganttonone.club/2017/04/20/20170420黄疸的几种类型和主要原理/</id>
+    <link href="http://arroganttonone.club/2017/04/20/%E9%BB%84%E7%96%B8%E7%9A%84%E5%87%A0%E7%A7%8D%E7%B1%BB%E5%9E%8B%E5%92%8C%E4%B8%BB%E8%A6%81%E5%8E%9F%E7%90%86/"/>
+    <id>http://arroganttonone.club/2017/04/20/黄疸的几种类型和主要原理/</id>
     <published>2017-04-20T14:15:28.000Z</published>
     <updated>2017-06-29T13:33:39.173Z</updated>
     
@@ -285,8 +311,8 @@
   
   <entry>
     <title>丘脑-垂体-肾上腺轴</title>
-    <link href="http://arroganttonone.club/2017/03/16/20170316%E4%B8%98%E8%84%91-%E5%9E%82%E4%BD%93-%E8%82%BE%E4%B8%8A%E8%85%BA%E8%BD%B4/"/>
-    <id>http://arroganttonone.club/2017/03/16/20170316丘脑-垂体-肾上腺轴/</id>
+    <link href="http://arroganttonone.club/2017/03/16/%E4%B8%98%E8%84%91-%E5%9E%82%E4%BD%93-%E8%82%BE%E4%B8%8A%E8%85%BA%E8%BD%B4/"/>
+    <id>http://arroganttonone.club/2017/03/16/丘脑-垂体-肾上腺轴/</id>
     <published>2017-03-16T14:15:13.000Z</published>
     <updated>2017-06-29T13:34:12.002Z</updated>
     
@@ -308,8 +334,8 @@
   
   <entry>
     <title>关于黄疸</title>
-    <link href="http://arroganttonone.club/2017/03/08/20170415%E9%BB%84%E7%96%B8/"/>
-    <id>http://arroganttonone.club/2017/03/08/20170415黄疸/</id>
+    <link href="http://arroganttonone.club/2017/03/08/2017-04-15%E9%BB%84%E7%96%B8/"/>
+    <id>http://arroganttonone.club/2017/03/08/2017-04-15黄疸/</id>
     <published>2017-03-08T14:12:43.000Z</published>
     <updated>2017-06-29T15:43:02.345Z</updated>
     
@@ -324,9 +350,9 @@
       <category term="医学笔记" scheme="http://arroganttonone.club/categories/%E5%8C%BB%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
-    
       <category term="jaundice" scheme="http://arroganttonone.club/tags/jaundice/"/>
+    
+      <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
     
       <category term="黄疸" scheme="http://arroganttonone.club/tags/%E9%BB%84%E7%96%B8/"/>
     
@@ -334,8 +360,8 @@
   
   <entry>
     <title>医院常检查  血常规 complete blood test （CBC）</title>
-    <link href="http://arroganttonone.club/2017/03/08/20170308%E8%A1%80%E5%B8%B8%E8%A7%84/"/>
-    <id>http://arroganttonone.club/2017/03/08/20170308血常规/</id>
+    <link href="http://arroganttonone.club/2017/03/08/2017-03-08%E8%A1%80%E5%B8%B8%E8%A7%84/"/>
+    <id>http://arroganttonone.club/2017/03/08/2017-03-08血常规/</id>
     <published>2017-03-08T14:12:43.000Z</published>
     <updated>2017-06-29T13:34:25.634Z</updated>
     
@@ -354,9 +380,9 @@
       <category term="医学笔记" scheme="http://arroganttonone.club/categories/%E5%8C%BB%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="CBC" scheme="http://arroganttonone.club/tags/CBC/"/>
-    
       <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
+    
+      <category term="CBC" scheme="http://arroganttonone.club/tags/CBC/"/>
     
   </entry>
   
