@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://arroganttonone.club/"/>
-  <updated>2017-08-04T12:54:58.000Z</updated>
+  <updated>2017-08-11T10:19:50.166Z</updated>
   <id>http://arroganttonone.club/</id>
   
   <author>
@@ -14,6 +14,52 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>medical neuroscience</title>
+    <link href="http://arroganttonone.club/2017/08/11/neuroscience-week1-record/"/>
+    <id>http://arroganttonone.club/2017/08/11/neuroscience-week1-record/</id>
+    <published>2017-08-11T10:08:08.000Z</published>
+    <updated>2017-08-11T10:19:50.166Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;medical-neuroscience&quot;&gt;&lt;a href=&quot;#medical-neuroscience&quot; class=&quot;headerlink&quot; title=&quot;medical neuroscience&quot;&gt;&lt;/a&gt;medical neuroscience&lt;/h1&gt;&lt;h2 id=&quot;week-1&quot;&gt;&lt;a href=&quot;#week-1&quot; class=&quot;headerlink&quot; title=&quot;week 1&quot;&gt;&lt;/a&gt;week 1&lt;/h2&gt;&lt;h3 id=&quot;learning-objectives&quot;&gt;&lt;a href=&quot;#learning-objectives&quot; class=&quot;headerlink&quot; title=&quot;learning objectives&quot;&gt;&lt;/a&gt;learning objectives&lt;/h3&gt;
+    
+    </summary>
+    
+      <category term="coursera" scheme="http://arroganttonone.club/categories/coursera/"/>
+    
+    
+      <category term="neurology" scheme="http://arroganttonone.club/tags/neurology/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>week 1 basic heart anatomy lecture outline</title>
+    <link href="http://arroganttonone.club/2017/08/11/week-1-basic-heatr-anatomy-lecture-outline/"/>
+    <id>http://arroganttonone.club/2017/08/11/week-1-basic-heatr-anatomy-lecture-outline/</id>
+    <published>2017-08-11T10:04:08.000Z</published>
+    <updated>2017-08-11T10:19:49.307Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Vital-Signs-Pulse-amp-Heart-Rate&quot;&gt;&lt;a href=&quot;#Vital-Signs-Pulse-amp-Heart-Rate&quot; class=&quot;headerlink&quot; title=&quot;Vital Signs:  Pulse &amp;amp; Heart Rate&quot;&gt;&lt;/a&gt;Vital Signs:  Pulse &amp;amp; Heart Rate&lt;/h1&gt;&lt;h2 id=&quot;week-1-lecture-outline&quot;&gt;&lt;a href=&quot;#week-1-lecture-outline&quot; class=&quot;headerlink&quot; title=&quot;week 1  lecture outline&quot;&gt;&lt;/a&gt;week 1  lecture outline&lt;/h2&gt;&lt;h3 id=&quot;Video-1-1-Basic-Heart-Anatomy&quot;&gt;&lt;a href=&quot;#Video-1-1-Basic-Heart-Anatomy&quot; class=&quot;headerlink&quot; title=&quot;Video 1.1: Basic Heart Anatomy&quot;&gt;&lt;/a&gt;Video 1.1: Basic Heart Anatomy&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The Heart’s Location within the Thoracic &lt;em&gt;Cavity&lt;/em&gt; (胸腔)&lt;/li&gt;
+&lt;li&gt;The heart is a &lt;em&gt;hollow&lt;/em&gt;（中空的）, muscular, &lt;em&gt;cone-shaped&lt;/em&gt;（锥状的） organ&lt;/li&gt;
+&lt;li&gt;General location&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="coursera" scheme="http://arroganttonone.club/categories/coursera/"/>
+    
+    
+      <category term="heart" scheme="http://arroganttonone.club/tags/heart/"/>
+    
+      <category term="anatomy" scheme="http://arroganttonone.club/tags/anatomy/"/>
+    
+  </entry>
   
   <entry>
     <title>药理学课本英文部分翻译1</title>
@@ -46,7 +92,7 @@
     <link href="http://arroganttonone.club/2017/08/03/PR%E5%88%86%E4%BA%AB/"/>
     <id>http://arroganttonone.club/2017/08/03/PR分享/</id>
     <published>2017-08-03T10:08:08.000Z</published>
-    <updated>2017-08-04T12:44:41.965Z</updated>
+    <updated>2017-08-06T04:03:34.000Z</updated>
     
     <summary type="html">
     
@@ -350,11 +396,11 @@
       <category term="医学笔记" scheme="http://arroganttonone.club/categories/%E5%8C%BB%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="jaundice" scheme="http://arroganttonone.club/tags/jaundice/"/>
-    
       <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
     
       <category term="黄疸" scheme="http://arroganttonone.club/tags/%E9%BB%84%E7%96%B8/"/>
+    
+      <category term="jaundice" scheme="http://arroganttonone.club/tags/jaundice/"/>
     
   </entry>
   
@@ -380,9 +426,9 @@
       <category term="医学笔记" scheme="http://arroganttonone.club/categories/%E5%8C%BB%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
-    
       <category term="CBC" scheme="http://arroganttonone.club/tags/CBC/"/>
+    
+      <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
     
   </entry>
   
