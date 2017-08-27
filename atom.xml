@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Jeff&#39;s Blog</title>
-  
+  <title>ONLINE NOTEPAD</title>
+  <subtitle>christion, medcine, software</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://arroganttonone.club/"/>
@@ -9,7 +9,7 @@
   <id>http://arroganttonone.club/</id>
   
   <author>
-    <name>Jeff</name>
+    <name>DING, JianFeng</name>
     
   </author>
   
