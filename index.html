@@ -1,431 +1,1302 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!doctype html>
+
+
+
   
-  <title>Notepad blog</title>
-  <meta name="description" content="a blog just write for fun." />
-  <meta name="keywords" content="" />
-  <meta name="HandheldFriendly" content="True" />
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <link rel="shortcut icon" href="/">
-  <link rel="alternate" href="/atom.xml" title="Notepad blog">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="a blog just write for fun.">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Notepad blog">
-<meta property="og:url" content="http://arroganttonone.club/index.html">
-<meta property="og:site_name" content="Notepad blog">
-<meta property="og:description" content="a blog just write for fun.">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Notepad blog">
-<meta name="twitter:description" content="a blog just write for fun.">
+
+
+<html class="theme-next muse use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+  
+  
+  
+  
+
+  
     
-  <link href="https://fonts.googleapis.com/css?family=Inconsolata|Titillium+Web" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
-  <link href='//cdn.bootcss.com/node-waves/0.7.5/waves.min.css' rel='stylesheet'>
-  <link rel="stylesheet" href="/style.css">
-  <script>
-    function setLoadingBarProgress(num) {
-      document.getElementById('loading-bar').style.width=num+"%";
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.1" rel="stylesheet" type="text/css" />
+
+
+  <meta name="keywords" content="��" />
+
+
+
+
+
+  <link rel="alternate" href="/atom.xml" title="Jeff's Blog" type="application/atom+xml" />
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=5.1.1" />
+
+
+
+
+
+
+<meta name="description" content="a heart at peace gives life to the body, but envy rots the bones.// Proverbs 14:30 NIV">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Jeff&#39;s Blog">
+<meta property="og:url" content="http://arroganttonone.club/index.html">
+<meta property="og:site_name" content="Jeff&#39;s Blog">
+<meta property="og:description" content="a heart at peace gives life to the body, but envy rots the bones.// Proverbs 14:30 NIV">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Jeff&#39;s Blog">
+<meta name="twitter:description" content="a heart at peace gives life to the body, but envy rots the bones.// Proverbs 14:30 NIV">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Muse',
+    sidebar: {"position":"left","display":"post","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false},
+    fancybox: true,
+    motion: true,
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
     }
-  </script>
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://arroganttonone.club/"/>
+
+
+
+
+
+  <title>Jeff's Blog</title>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </head>
 
-<body>
-  <div id="loading-bar-wrapper">
-  <div id="loading-bar"></div>
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left 
+   page-home 
+ ">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Jeff's Blog</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle"></p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
 </div>
 
+<nav class="site-nav">
+  
 
-  <script>setLoadingBarProgress(20)</script> 
-  <header class="l_header">
-	<div class='wrapper'>
-		<div class="nav-main container container--flex">
-			<a class="logo flat-box" href='/' >
-				Notepad blog
-			</a>
-			<div class='menu'>
-				<ul class='h-list'>
-					
-						<li>
-							<a class='flat-box nav-home' href='/'>
-								Home
-							</a>
-						</li>
-					
-						<li>
-							<a class='flat-box nav-archives' href='/archives'>
-								Archives
-							</a>
-						</li>
-					
-						<li>
-							<a class='flat-box nav-about' href='/about'>
-								About
-							</a>
-						</li>
-					
-				</ul>
-				<div class='underline'></div>
-			</div>
-			
-				<div class="m_search">
-					<form name="searchform" class="form u-search-form">
-						<input type="text" class="input u-search-input" placeholder="Search" />
-						<span class="icon icon-search"></span>
-					</form>
-				</div>
-			
-			<ul class='switcher h-list'>
-				
-					<li class='s-search'><a href='javascript:void(0)'><span class="icon icon-search flat-box"></span></a></li>
-				
-				<li class='s-menu'><a href='javascript:void(0)'><span class="icon icon-menu flat-box"></span></a></li>
-			</ul>
-		</div>
-		
-		<div class='nav-sub container container--flex'>
-			<a class="logo" class="flat-box" href='javascript:void(0)'>
-				Word of Forks
-			</a>
-
-			<ul class='switcher h-list'>
-				<li class='s-comment'><a href='javascript:void(0)'><span class="icon icon-chat_bubble_outline flat-box"></span></a></li>
-				<li class='s-top'><a href='javascript:void(0)'><span class="icon icon-arrow_upward flat-box"></span></a></li>
-				<li class='s-toc'><a href='javascript:void(0)'><span class="icon icon-format_list_numbered flat-box"></span></a></li>
-			</ul>
-		</div>
-	</div>
-</header>
-<aside class="menu-phone">
-	<nav>
-		
-			<a href="/" class="nav-home nav">
-				Home
-			</a>
-		
-			<a href="/archives" class="nav-archives nav">
-				Archives
-			</a>
-		
-			<a href="/about" class="nav-about nav">
-				About
-			</a>
-		
-	</nav>
-</aside>
-
-    <script>setLoadingBarProgress(40);</script>
-  <div class="l_body">
-    <div class='container clearfix'>
-      <div class='l_main'>
+  
+    <ul id="menu" class="menu">
+      
         
-<section class="post-list">
-	
-    <div class='post-wrapper'>
-      <article class="post reveal">
-  <section class="meta">
-    
-    <h2 class="title">
-      <a href="/2017/08/26/人类群星闪耀时读后感/">
-        《人类群星闪耀时》读后感
-      </a>
-    </h2>
-    
-    <time>
-      Aug 26, 2017
-    </time>
-		
-    
-    <div class='cats'>
-        <a href="/categories/读后感/">读后感</a>
-    </div>
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br />
+            
+            关于
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
 
-  </section>
-  <section class="article typo">
-	  <h1 id="人类群星闪耀时-1-footnote"><a href="#人类群星闪耀时-1-footnote" class="headerlink" title="人类群星闪耀时^1_footnote"></a>人类群星闪耀时<a href="茨威格著">^1_footnote</a></h1><p><img src="http://os9j59rou.bkt.clouddn.com/renlei.jpg?imageView/2/w/450" alt=""></p>
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+  <section id="posts" class="posts-expand">
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://arroganttonone.club/2017/08/26/人类群星闪耀时读后感/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Jeff">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/uploads/avatar.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Jeff's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2017/08/26/人类群星闪耀时读后感/" itemprop="url">《人类群星闪耀时》读后感</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-08-26T20:50:08+08:00">
+                2017-08-26
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/读后感/" itemprop="url" rel="index">
+                    <span itemprop="name">读后感</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/08/26/人类群星闪耀时读后感/" class="leancloud_visitors" data-flag-title="《人类群星闪耀时》读后感">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h1 id="人类群星闪耀时"><a href="#人类群星闪耀时" class="headerlink" title="人类群星闪耀时"></a>人类群星闪耀时</h1><p><img src="http://os9j59rou.bkt.clouddn.com/renlei.jpg?imageView/2/w/450" alt=""></p>
 <p>这本书曾经是我高中入学时学校推荐的一本必读书籍，当时有一只学习机，便从网上搜来各种资源，有小说，有文学作品，这本书也在其中。可当时打开学习机发现，里面的内容是乱码，所以没有阅读的机会，直到这个暑假。</p>
-<p>同样，还有很多久闻大名却还没有真正读过的书籍，比如说《近距离看美国》<a href="林达著">^2_footnote</a>系列，《必然》<a href="凯文凯利著">^3_footnote</a>等。</p>
+<p>同样，还有很多久闻大名却还没有真正读过的书籍，比如说《近距离看美国》系列，《必然》等。</p>
 <p>不知怎的，或许是高中对她的印象就不好把，以为和《全球通史》一样，都是讲历史的，一个时期一个时期讲过来，就像干必要且没有乐趣的农活，说实话，《全球通史》我也没看过。</p>
 <p>但事实上并不是这样的，我之前这么想，说明我连这个书名也没有理解。人类群星闪耀时，其实就是把人类历史浓缩成几个有意义的转折点，然后以各种表现方式，最多的是记叙，也有诗歌，和剧本，来还原当时的场景。这可以算是作者以自己的角度来对世界描述那一段历史，我觉得，很有可能不是那个历史本身，但我们若是可以借着作者的立场起码了解一下这些历史性时刻，也是一件乐事。</p>
 <p>作者真的是别具一格，如之前介绍的，文学体裁方面，记叙，诗歌，剧本，没有看到过哪一本书是这样来组织的，当然，从侧面表示我看书较少。</p>
 <p>从题材的选择上面，有描写新大陆的发现，有对音乐家，作曲家，军人，政治家，作家的描写，但这些描写都不是为了说明这些人的伟大，而是这些人的某一个伟大的时刻，所以，作者描写的这些人中间，有很多不适合我们平常意义上伟人的称呼，有些甚至是逃犯，流氓，普通军人，第二名。</p>
 <p>接下来，我想分享一下对书中具体内容的看法。</p>
-<h4 id="1"><a href="#1" class="headerlink" title="1"></a>1</h4><p>巴尔沃亚，第一个看到太平洋的欧洲人，本该被处以极刑的人，为了寻求庇护，投身到永恒的事业中，就是寻找太平洋。</p>
-<p>让我震撼的不是他的勇气，而是一边祷告，一边肆意杀害和压迫原住民的行为。发现太平洋，是为了可以掩盖自己的罪行，但最后要把荣耀归给上帝。</p>
-<p>他正好和我最近看的一本传记《深入非洲三万里-利文斯顿传》<a href="张文亮著">^4_footnote</a>的主人公李文斯顿相反，前一位是为了寻求庇护，最后发现了大洋，后一位是因为传福音，几次穿越非洲，顺便为地理气象学作出贡献。</p>
-<p>目的不同，就算有同样的成就，后人对此的评价，以及自己内心的满足感，肯定是不同的。</p>
-<p>####2<br>韩德尔 Handel<br>《清唱剧-弥赛亚》的作者，曲子里面有一段是《哈利路亚》，相信很多人听过，也能跟着唱几句。我对待音乐的态度是，对于外文歌，首先看歌词，只有将意思带进歌曲里听，才是有享受的。</p>
-<p>在这里，我才知道了弥赛亚背后的故事。Handel 大病，是由于发现并给弥赛亚谱曲的过程，让他重新燃起生命的能力。</p>
-<p>####3<br>托尔斯泰，俄国人</p>
-<p>晚年写剧本射影自己的生活，但不知如何结尾，最后自己的离家出走，以另一种方式为自己的剧本画上句号，茨维格意图通过以剧本的方式描写他的出走，以文字的方式，给托尔斯泰的剧本结尾。</p>
-<p>在这里我看到，托尔斯泰的自我虐待，或者说是他过于自我的一种体现。和自己已经没有感情的妻子硬是相处了很多年，他一方面不愿意过这样的生活，一方面，怕自己的出走影响了周围的人，从而让自己又一种负罪感。</p>
-<p>剧本中，托尔斯泰是受两个俄国主张革命的年轻人的刺激，几番挣扎后，决定出走，但出走需要瞒过一些人，这里我看到，他痛恨谎言，但又不得不说谎的挣扎，真是苦啊。</p>
-<h4 id="还记得的就是这些了，当然还有一些有关淘金热，马赛曲，滑铁卢，歌德的晚年等，就让他们依稀存在我脑里吧"><a href="#还记得的就是这些了，当然还有一些有关淘金热，马赛曲，滑铁卢，歌德的晚年等，就让他们依稀存在我脑里吧" class="headerlink" title="还记得的就是这些了，当然还有一些有关淘金热，马赛曲，滑铁卢，歌德的晚年等，就让他们依稀存在我脑里吧"></a>还记得的就是这些了，当然还有一些有关淘金热，马赛曲，滑铁卢，歌德的晚年等，就让他们依稀存在我脑里吧</h4>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/08/26/人类群星闪耀时读后感/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
 
     
-    
-    
-	  <div class="full-width auto-padding tags">
       
-        <a href="/tags/读后感/">读后感</a>
-      
-        <a href="/tags/历史/">历史</a>
-      
-	  </div>
-    
-  </section>
-</article>
-    </div>
+
   
-    <div class='post-wrapper'>
-      <article class="post reveal">
-  <section class="meta">
-    
-    <h2 class="title">
-      <a href="/2017/08/11/learning-objectives/">
-        medical neuroscience
-      </a>
-    </h2>
-    
-    <time>
-      Aug 11, 2017
-    </time>
-		
-    
-    <div class='cats'>
-        <a href="/categories/coursera/">coursera</a>
-    </div>
 
-  </section>
-  <section class="article typo">
-	  <p>#week 1 Part 2 </p>
-<p>##describe the basic class of cells found in the Sentra nervous system (CNS)</p>
-<pre><code>- Neuron
-- Neuralgia 
-- Vascular endothelium
-- 
-</code></pre>
-
-    
-	  <div class="readmore">
-      <a href="/2017/08/11/learning-objectives/">Read More</a>
-    </div>
-    
-    
-    
-	  <div class="full-width auto-padding tags">
-      
-        <a href="/tags/neurology/">neurology</a>
-      
-	  </div>
-    
-  </section>
-</article>
-    </div>
   
-    <div class='post-wrapper'>
-      <article class="post reveal">
-  <section class="meta">
-    
-    <h2 class="title">
-      <a href="/2017/08/11/neuroscience-week1-record/">
-        medical neuroscience
-      </a>
-    </h2>
-    
-    <time>
-      Aug 11, 2017
-    </time>
-		
-    
-    <div class='cats'>
-        <a href="/categories/coursera/">coursera</a>
-    </div>
-
-  </section>
-  <section class="article typo">
-	  <h1 id="medical-neuroscience"><a href="#medical-neuroscience" class="headerlink" title="medical neuroscience"></a>medical neuroscience</h1><h2 id="week-1"><a href="#week-1" class="headerlink" title="week 1"></a>week 1</h2><h3 id="learning-objectives"><a href="#learning-objectives" class="headerlink" title="learning objectives"></a>learning objectives</h3>
-
-    
-	  <div class="readmore">
-      <a href="/2017/08/11/neuroscience-week1-record/">Read More</a>
-    </div>
-    
-    
-    
-	  <div class="full-width auto-padding tags">
-      
-        <a href="/tags/neurology/">neurology</a>
-      
-	  </div>
-    
-  </section>
-</article>
-    </div>
   
-    <div class='post-wrapper'>
-      <article class="post reveal">
-  <section class="meta">
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://arroganttonone.club/2017/08/11/learning-objectives/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Jeff">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/uploads/avatar.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Jeff's Blog">
+    </span>
+
     
-    <h2 class="title">
-      <a href="/2017/08/11/week-1-basic-heatr-anatomy-lecture-outline/">
-        week 1 basic heart anatomy lecture outline
-      </a>
-    </h2>
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2017/08/11/learning-objectives/" itemprop="url">medical neuroscience</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-08-11T18:08:08+08:00">
+                2017-08-11
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/coursera/" itemprop="url" rel="index">
+                    <span itemprop="name">coursera</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/08/11/learning-objectives/" class="leancloud_visitors" data-flag-title="medical neuroscience">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
     
-    <time>
-      Aug 11, 2017
-    </time>
-		
-    
-    <div class='cats'>
-        <a href="/categories/coursera/">coursera</a>
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h1 id="week-1-Part-2"><a href="#week-1-Part-2" class="headerlink" title="week 1 Part 2"></a>week 1 Part 2</h1><h2 id="describe-the-basic-class-of-cells-found-in-the-Sentra-nervous-system-CNS"><a href="#describe-the-basic-class-of-cells-found-in-the-Sentra-nervous-system-CNS" class="headerlink" title="describe the basic class of cells found in the Sentra nervous system (CNS)"></a>describe the basic class of cells found in the Sentra nervous system (CNS)</h2><ul>
+<li>Neuron</li>
+<li>Neuralgia </li>
+<li>Vascular endothelium</li>
+</ul>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/08/11/learning-objectives/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
     </div>
 
-  </section>
-  <section class="article typo">
-	  <h1 id="Vital-Signs-Pulse-amp-Heart-Rate"><a href="#Vital-Signs-Pulse-amp-Heart-Rate" class="headerlink" title="Vital Signs:  Pulse &amp; Heart Rate"></a>Vital Signs:  Pulse &amp; Heart Rate</h1><h2 id="week-1-lecture-outline"><a href="#week-1-lecture-outline" class="headerlink" title="week 1  lecture outline"></a>week 1  lecture outline</h2><h3 id="Video-1-1-Basic-Heart-Anatomy"><a href="#Video-1-1-Basic-Heart-Anatomy" class="headerlink" title="Video 1.1: Basic Heart Anatomy"></a>Video 1.1: Basic Heart Anatomy</h3><ul>
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://arroganttonone.club/2017/08/11/neuroscience-week1-record/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Jeff">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/uploads/avatar.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Jeff's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2017/08/11/neuroscience-week1-record/" itemprop="url">medical neuroscience</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-08-11T18:08:08+08:00">
+                2017-08-11
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/coursera/" itemprop="url" rel="index">
+                    <span itemprop="name">coursera</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/08/11/neuroscience-week1-record/" class="leancloud_visitors" data-flag-title="medical neuroscience">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h1 id="medical-neuroscience"><a href="#medical-neuroscience" class="headerlink" title="medical neuroscience"></a>medical neuroscience</h1><h2 id="week-1"><a href="#week-1" class="headerlink" title="week 1"></a>week 1</h2><h3 id="learning-objectives"><a href="#learning-objectives" class="headerlink" title="learning objectives"></a>learning objectives</h3>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/08/11/neuroscience-week1-record/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://arroganttonone.club/2017/08/11/week-1-basic-heatr-anatomy-lecture-outline/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Jeff">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/uploads/avatar.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Jeff's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2017/08/11/week-1-basic-heatr-anatomy-lecture-outline/" itemprop="url">week 1 basic heart anatomy lecture outline</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-08-11T18:04:08+08:00">
+                2017-08-11
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/coursera/" itemprop="url" rel="index">
+                    <span itemprop="name">coursera</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/08/11/week-1-basic-heatr-anatomy-lecture-outline/" class="leancloud_visitors" data-flag-title="week 1 basic heart anatomy lecture outline">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h1 id="Vital-Signs-Pulse-amp-Heart-Rate"><a href="#Vital-Signs-Pulse-amp-Heart-Rate" class="headerlink" title="Vital Signs:  Pulse &amp; Heart Rate"></a>Vital Signs:  Pulse &amp; Heart Rate</h1><h2 id="week-1-lecture-outline"><a href="#week-1-lecture-outline" class="headerlink" title="week 1  lecture outline"></a>week 1  lecture outline</h2><h3 id="Video-1-1-Basic-Heart-Anatomy"><a href="#Video-1-1-Basic-Heart-Anatomy" class="headerlink" title="Video 1.1: Basic Heart Anatomy"></a>Video 1.1: Basic Heart Anatomy</h3><ul>
 <li>The Heart’s Location within the Thoracic <em>Cavity</em> (胸腔)</li>
 <li>The heart is a <em>hollow</em>（中空的）, muscular, <em>cone-shaped</em>（锥状的） organ</li>
 </ul>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/08/11/week-1-basic-heatr-anatomy-lecture-outline/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
 
     
-	  <div class="readmore">
-      <a href="/2017/08/11/week-1-basic-heatr-anatomy-lecture-outline/">Read More</a>
-    </div>
-    
-    
-    
-	  <div class="full-width auto-padding tags">
       
-        <a href="/tags/heart/">heart</a>
-      
-        <a href="/tags/anatomy/">anatomy</a>
-      
-	  </div>
-    
-  </section>
-</article>
-    </div>
+
   
-    <div class='post-wrapper'>
-      <article class="post reveal">
-  <section class="meta">
-    
-    <h2 class="title">
-      <a href="/2017/08/04/pharmacology1/">
-        药理学课本英文部分翻译1
-      </a>
-    </h2>
-    
-    <time>
-      Aug 4, 2017
-    </time>
-		
-    
-    <div class='cats'>
-        <a href="/categories/读书笔记/">读书笔记</a>
-    </div>
 
-  </section>
-  <section class="article typo">
-	  <h1 id="P6-药物通过细胞屏障的方式"><a href="#P6-药物通过细胞屏障的方式" class="headerlink" title="P6 药物通过细胞屏障的方式"></a>P6 药物通过细胞屏障的方式</h1><ul>
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://arroganttonone.club/2017/08/04/pharmacology1/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Jeff">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/uploads/avatar.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Jeff's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2017/08/04/pharmacology1/" itemprop="url">药理学课本英文部分翻译1</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-08-04T20:08:08+08:00">
+                2017-08-04
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/读书笔记/" itemprop="url" rel="index">
+                    <span itemprop="name">读书笔记</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/08/04/pharmacology1/" class="leancloud_visitors" data-flag-title="药理学课本英文部分翻译1">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h1 id="P6-药物通过细胞屏障的方式"><a href="#P6-药物通过细胞屏障的方式" class="headerlink" title="P6 药物通过细胞屏障的方式"></a>P6 药物通过细胞屏障的方式</h1><ul>
 <li>主要是通过滤过（水溶性扩散），简单扩散（脂溶性扩散），或者载体介导的转运（主动转运或易化扩散）。</li>
 <li><strong>药物的脂溶性</strong>是决定被动扩散速率的主要因素</li>
 <li>载体介导的转运（e.g.在肾小管，血脑屏障，小肠上皮）对一些和细胞内化学物质相关的药物的转运具有重要作用。</li>
 </ul>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/08/04/pharmacology1/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
 
     
-	  <div class="readmore">
-      <a href="/2017/08/04/pharmacology1/">Read More</a>
-    </div>
-    
-    
-    
-	  <div class="full-width auto-padding tags">
       
-        <a href="/tags/药理学第八版/">药理学第八版</a>
-      
-        <a href="/tags/翻译/">翻译</a>
-      
-	  </div>
-    
-  </section>
-</article>
-    </div>
+
   
-    <div class='post-wrapper'>
-      <article class="post reveal">
-  <section class="meta">
-    
-    <h2 class="title">
-      <a href="/2017/08/03/PR分享/">
-        PR分享
-      </a>
-    </h2>
-    
-    <time>
-      Aug 3, 2017
-    </time>
-		
-    
-    <div class='cats'>
-        <a href="/categories/软件/">软件</a>
-    </div>
 
-  </section>
-  <section class="article typo">
-	  <h1 id="Adobe-Premiere-CS6-使用皮毛分享-1"><a href="#Adobe-Premiere-CS6-使用皮毛分享-1" class="headerlink" title="Adobe Premiere CS6 使用皮毛分享 1"></a>Adobe Premiere CS6 使用皮毛分享 1</h1><h2 id="1-安装方式"><a href="#1-安装方式" class="headerlink" title="1.安装方式"></a>1.安装方式</h2><ul>
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://arroganttonone.club/2017/08/03/PR分享/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Jeff">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/uploads/avatar.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Jeff's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2017/08/03/PR分享/" itemprop="url">PR分享</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-08-03T18:08:08+08:00">
+                2017-08-03
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/软件/" itemprop="url" rel="index">
+                    <span itemprop="name">软件</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/08/03/PR分享/" class="leancloud_visitors" data-flag-title="PR分享">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h1 id="Adobe-Premiere-CS6-使用皮毛分享-1"><a href="#Adobe-Premiere-CS6-使用皮毛分享-1" class="headerlink" title="Adobe Premiere CS6 使用皮毛分享 1"></a>Adobe Premiere CS6 使用皮毛分享 1</h1><h2 id="1-安装方式"><a href="#1-安装方式" class="headerlink" title="1.安装方式"></a>1.安装方式</h2><ul>
 <li>百度网盘下载相应版本的 adobe Premiere CS6</li>
 </ul>
 <blockquote>
 <p>或者官网，但现在adobe最新版有了一个creative cloud，adobe软件都以这个为入口打开，由于没有试用过，就不讲最新版的了。</p>
 </blockquote>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/08/03/PR分享/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
 
     
-	  <div class="readmore">
-      <a href="/2017/08/03/PR分享/">Read More</a>
-    </div>
-    
-    
-    
-	  <div class="full-width auto-padding tags">
       
-        <a href="/tags/软件/">软件</a>
-      
-        <a href="/tags/adobe/">adobe</a>
-      
-	  </div>
-    
-  </section>
-</article>
-    </div>
+
   
-    <div class='post-wrapper'>
-      <article class="post reveal">
-  <section class="meta">
-    
-    <h2 class="title">
-      <a href="/2017/07/06/好医生第六天/">
-        好医生第六天
-      </a>
-    </h2>
-    
-    <time>
-      Jul 6, 2017
-    </time>
-		
-    
-    <div class='cats'>
-        <a href="/categories/好医生/">好医生</a>
-    </div>
 
-  </section>
-  <section class="article typo">
-	  <h1 id="好医生第六天"><a href="#好医生第六天" class="headerlink" title="好医生第六天"></a>好医生第六天</h1><p>今天去了李老师的感染科门诊。</p>
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://arroganttonone.club/2017/07/06/好医生第六天/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Jeff">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/uploads/avatar.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Jeff's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2017/07/06/好医生第六天/" itemprop="url">好医生第六天</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-07-06T21:35:57+08:00">
+                2017-07-06
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/好医生/" itemprop="url" rel="index">
+                    <span itemprop="name">好医生</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/07/06/好医生第六天/" class="leancloud_visitors" data-flag-title="好医生第六天">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <h1 id="好医生第六天"><a href="#好医生第六天" class="headerlink" title="好医生第六天"></a>好医生第六天</h1><p>今天去了李老师的感染科门诊。</p>
 <p>可以进到资深专家的门诊进行见习真的是我的荣幸，此时收获最多的不是在知识和治疗上面，而是在老师和病人沟通，门诊方式和对我们的教导方面。</p>
 <p>本来是十一点半结束的门诊，在处理各样病人的途中，到了十二点半，但过程中并没有煎熬的感觉，老师始终是以同样的热情对待每一个病友。</p>
 <p>来这里的人，大多是患有乙肝，部分是酒精性肝病。病友都表现出不同程度的担忧，但总能在老师这里得到肯定的安慰。老师告诉我们，对待一个病人，不仅是看他的身体状况，还要看他的心里和社会状况，要让病人有信心。</p>
@@ -440,274 +1311,872 @@
 </ul>
 <p>门诊结束后，和老师一起吃了个饭，谈到我们吃饭不光盘的习俗，以前是因为穷，所以不吃完，而现在大家物质生活都丰富了，没有理由不把饭菜吃完，吃不完以后就少点点。</p>
 
-
-    
-    
-    
-	  <div class="full-width auto-padding tags">
-      
-        <a href="/tags/见习/">见习</a>
-      
-        <a href="/tags/感染科/">感染科</a>
-      
-	  </div>
-    
-  </section>
-</article>
-    </div>
-  
-    <div class='post-wrapper'>
-      <article class="post reveal">
-  <section class="meta">
-    
-    <h2 class="title">
-      <a href="/2017/07/06/书摘-寻找苏慧廉-金先生/">
-        书摘-寻找苏慧廉-金先生
-      </a>
-    </h2>
-    
-    <time>
-      Jul 6, 2017
-    </time>
-		
-    
-    <div class='cats'>
-        <a href="/categories/书摘/">书摘</a>
-    </div>
-
-  </section>
-  <section class="article typo">
-	  <h1 id="书摘——《寻找苏慧廉》"><a href="#书摘——《寻找苏慧廉》" class="headerlink" title="书摘——《寻找苏慧廉》"></a>书摘——《寻找苏慧廉》</h1><p><img src="http://ec8.images-amazon.com/images/I/71AJnwHWJWL._SL1500_.jpg" alt="寻找苏慧廉"><br>
-
-    
-	  <div class="readmore">
-      <a href="/2017/07/06/书摘-寻找苏慧廉-金先生/">Read More</a>
-    </div>
-    
-    
-    
-	  <div class="full-width auto-padding tags">
-      
-        <a href="/tags/书摘/">书摘</a>
-      
-        <a href="/tags/寻找苏慧廉/">寻找苏慧廉</a>
-      
-	  </div>
-    
-  </section>
-</article>
-    </div>
-  
-    <div class='post-wrapper'>
-      <article class="post reveal">
-  <section class="meta">
-    
-    <h2 class="title">
-      <a href="/2017/07/05/好医生第五天/">
-        好医生第五天
-      </a>
-    </h2>
-    
-    <time>
-      Jul 5, 2017
-    </time>
-		
-    
-    <div class='cats'>
-        <a href="/categories/好医生/">好医生</a>
-    </div>
-
-  </section>
-  <section class="article typo">
-	  <h2 id="好医生第五天"><a href="#好医生第五天" class="headerlink" title="好医生第五天"></a>好医生第五天</h2><p>今天去了儿童医院的康复科。<br>儿科+康复 需要更多的耐心和不同于成人的医学储备。<br>
-
-    
-	  <div class="readmore">
-      <a href="/2017/07/05/好医生第五天/">Read More</a>
-    </div>
-    
-    
-    
-	  <div class="full-width auto-padding tags">
-      
-        <a href="/tags/见习/">见习</a>
-      
-        <a href="/tags/康复科/">康复科</a>
-      
-        <a href="/tags/儿科/">儿科</a>
-      
-	  </div>
-    
-  </section>
-</article>
-    </div>
-  
-    <div class='post-wrapper'>
-      <article class="post reveal">
-  <section class="meta">
-    
-    <h2 class="title">
-      <a href="/2017/07/04/好医生第四天 /">
-        好医生第四天
-      </a>
-    </h2>
-    
-    <time>
-      Jul 4, 2017
-    </time>
-		
-    
-    <div class='cats'>
-        <a href="/categories/好医生/">好医生</a>
-    </div>
-
-  </section>
-  <section class="article typo">
-	  <h2 id="好医生第四天"><a href="#好医生第四天" class="headerlink" title="好医生第四天"></a>好医生第四天</h2><p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Ribbon.svg/450px-Red_Ribbon.svg.png" alt=""></p>
-<p>今天大概是我们有记忆以来见到感染HIV病人最多的一天。</p>
-
-    
-	  <div class="readmore">
-      <a href="/2017/07/04/好医生第四天 /">Read More</a>
-    </div>
-    
-    
-    
-	  <div class="full-width auto-padding tags">
-      
-        <a href="/tags/见习/">见习</a>
-      
-        <a href="/tags/传染病科/">传染病科</a>
-      
-        <a href="/tags/AIDS/">AIDS</a>
-      
-	  </div>
-    
-  </section>
-</article>
-    </div>
-  
-</section>
-
-
-  <nav id="page-nav">
-    
-    
-    <a class="next" rel="next" href="/page/2/">
-      <span class="text">Next</span>
-      <span class="icon icon-chevron-right"></span>
-    </a>
-    
-  </nav>
-  
-
-      </div>
-      <aside class='l_side'>
+          
         
-  <section class='m_widget about'>
+      
+    </div>
 
-<img class='avatar waves-image' src='/uploads/avatar.png' />
+    <div>
+      
+    </div>
 
-<div class='header'>Jeff</div>
-<div class='content'>
-<div class='desc'>A heart at peace gives life to the body, but envy rots the bones.     || Proverbs 14:30 NIV</div>
-</div>
-</section>
+    <div>
+      
+    </div>
 
-  <section class='m_widget categories'>
-<div class='header'>Categories</div>
-<div class='content'>
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
     
-    <ul class="entry">
-    
-        <li><a class="flat-box" href="/categories/coursera/"><div class='name'>coursera</div><div class='badget'>3</div></a></li>
-    
-        <li><a class="flat-box" href="/categories/书摘/"><div class='name'>书摘</div><div class='badget'>1</div></a></li>
-    
-        <li><a class="flat-box" href="/categories/医学笔记/"><div class='name'>医学笔记</div><div class='badget'>6</div></a></li>
-    
-        <li><a class="flat-box" href="/categories/好医生/"><div class='name'>好医生</div><div class='badget'>3</div></a></li>
-    
-        <li><a class="flat-box" href="/categories/计划/"><div class='name'>计划</div><div class='badget'>1</div></a></li>
-    
-        <li><a class="flat-box" href="/categories/读书笔记/"><div class='name'>读书笔记</div><div class='badget'>2</div></a></li>
-    
-        <li><a class="flat-box" href="/categories/读后感/"><div class='name'>读后感</div><div class='badget'>1</div></a></li>
-    
-        <li><a class="flat-box" href="/categories/软件/"><div class='name'>软件</div><div class='badget'>2</div></a></li>
-    
-    </ul>
-    
-</div>
-</section>
+      
 
   
-<div class="m_widget tagcloud">
-    <div class="header">Tags</div>
-    <div class='content'>
-        <a href="/tags/AIDS/" style="font-size: 14px; color: #808080">AIDS</a> <a href="/tags/CBC/" style="font-size: 14px; color: #808080">CBC</a> <a href="/tags/adobe/" style="font-size: 14px; color: #808080">adobe</a> <a href="/tags/anatomy/" style="font-size: 14px; color: #808080">anatomy</a> <a href="/tags/heart/" style="font-size: 14px; color: #808080">heart</a> <a href="/tags/immunology/" style="font-size: 14px; color: #808080">immunology</a> <a href="/tags/jaundice/" style="font-size: 14px; color: #808080">jaundice</a> <a href="/tags/neurology/" style="font-size: 17px; color: #404040">neurology</a> <a href="/tags/《How-to-read-bible-for-all-its-worth》/" style="font-size: 14px; color: #808080">《How to read bible for all its worth》</a> <a href="/tags/书摘/" style="font-size: 14px; color: #808080">书摘</a> <a href="/tags/传染病科/" style="font-size: 14px; color: #808080">传染病科</a> <a href="/tags/儿科/" style="font-size: 14px; color: #808080">儿科</a> <a href="/tags/内分泌/" style="font-size: 14px; color: #808080">内分泌</a> <a href="/tags/博客搭建-域名-github/" style="font-size: 14px; color: #808080">博客搭建, 域名, github</a> <a href="/tags/历史/" style="font-size: 14px; color: #808080">历史</a> <a href="/tags/寻找苏慧廉/" style="font-size: 14px; color: #808080">寻找苏慧廉</a> <a href="/tags/康复科/" style="font-size: 14px; color: #808080">康复科</a> <a href="/tags/感染科/" style="font-size: 14px; color: #808080">感染科</a> <a href="/tags/检验/" style="font-size: 17px; color: #404040">检验</a> <a href="/tags/班级/" style="font-size: 14px; color: #808080">班级</a> <a href="/tags/生化/" style="font-size: 14px; color: #808080">生化</a> <a href="/tags/翻译/" style="font-size: 14px; color: #808080">翻译</a> <a href="/tags/胆红素/" style="font-size: 14px; color: #808080">胆红素</a> <a href="/tags/脂代谢/" style="font-size: 14px; color: #808080">脂代谢</a> <a href="/tags/药理学第八版/" style="font-size: 14px; color: #808080">药理学第八版</a> <a href="/tags/见习/" style="font-size: 20px; color: #000">见习</a> <a href="/tags/解经/" style="font-size: 14px; color: #808080">解经</a> <a href="/tags/读后感/" style="font-size: 14px; color: #808080">读后感</a> <a href="/tags/软件/" style="font-size: 14px; color: #808080">软件</a> <a href="/tags/释经/" style="font-size: 14px; color: #808080">释经</a> <a href="/tags/阅读方法/" style="font-size: 14px; color: #808080">阅读方法</a> <a href="/tags/黄疸/" style="font-size: 17px; color: #404040">黄疸</a>
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://arroganttonone.club/2017/07/06/书摘-寻找苏慧廉-金先生/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Jeff">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/uploads/avatar.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Jeff's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2017/07/06/书摘-寻找苏慧廉-金先生/" itemprop="url">书摘-寻找苏慧廉-金先生</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-07-06T20:48:16+08:00">
+                2017-07-06
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/书摘/" itemprop="url" rel="index">
+                    <span itemprop="name">书摘</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/07/06/书摘-寻找苏慧廉-金先生/" class="leancloud_visitors" data-flag-title="书摘-寻找苏慧廉-金先生">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h1 id="书摘——《寻找苏慧廉》"><a href="#书摘——《寻找苏慧廉》" class="headerlink" title="书摘——《寻找苏慧廉》"></a>书摘——《寻找苏慧廉》</h1><p><img src="http://ec8.images-amazon.com/images/I/71AJnwHWJWL._SL1500_.jpg" alt="寻找苏慧廉"><br>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/07/06/书摘-寻找苏慧廉-金先生/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
     </div>
-</div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://arroganttonone.club/2017/07/05/好医生第五天/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Jeff">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/uploads/avatar.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Jeff's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2017/07/05/好医生第五天/" itemprop="url">好医生第五天</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-07-05T22:34:58+08:00">
+                2017-07-05
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/好医生/" itemprop="url" rel="index">
+                    <span itemprop="name">好医生</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/07/05/好医生第五天/" class="leancloud_visitors" data-flag-title="好医生第五天">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h2 id="好医生第五天"><a href="#好医生第五天" class="headerlink" title="好医生第五天"></a>好医生第五天</h2><p>今天去了儿童医院的康复科。<br>儿科+康复 需要更多的耐心和不同于成人的医学储备。<br>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/07/05/好医生第五天/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://arroganttonone.club/2017/07/04/好医生第四天 /">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Jeff">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/uploads/avatar.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Jeff's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2017/07/04/好医生第四天 /" itemprop="url">好医生第四天</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-07-04T22:34:58+08:00">
+                2017-07-04
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/好医生/" itemprop="url" rel="index">
+                    <span itemprop="name">好医生</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2017/07/04/好医生第四天 /" class="leancloud_visitors" data-flag-title="好医生第四天">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数 </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h2 id="好医生第四天"><a href="#好医生第四天" class="headerlink" title="好医生第四天"></a>好医生第四天</h2><p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Ribbon.svg/450px-Red_Ribbon.svg.png" alt=""></p>
+<p>今天大概是我们有记忆以来见到感染HIV病人最多的一天。</p>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/07/04/好医生第四天 /#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+  </section>
+
+  
+  <nav class="pagination">
+    <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><a class="extend next" rel="next" href="/page/2/"><i class="fa fa-angle-right"></i></a>
+  </nav>
 
 
 
-      </aside>
-      <script>setLoadingBarProgress(60);</script>
+          </div>
+          
+
+
+          
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
     </div>
   </div>
-  <footer id="footer" class="clearfix">
 
-	<div class="social-wrapper">
-  	
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-inner">
+
       
-        <a href="https://github.com/jefflwwmu" class="social github"
-          target="_blank" rel="external">
-          <span class="icon icon-github"></span>
-        </a>
+
       
-        <a href="https://twitter.com/jefflwwmu" class="social twitter"
-          target="_blank" rel="external">
-          <span class="icon icon-twitter"></span>
-        </a>
+
+      <section class="site-overview sidebar-panel sidebar-panel-active">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <img class="site-author-image" itemprop="image"
+               src="/uploads/avatar.png"
+               alt="Jeff" />
+          <p class="site-author-name" itemprop="name">Jeff</p>
+           
+              <p class="site-description motion-element" itemprop="description">a heart at peace gives life to the body, but envy rots the bones.// Proverbs 14:30 NIV</p>
+          
+        </div>
+        <nav class="site-state motion-element">
+
+          
+            <div class="site-state-item site-state-posts">
+              <a href="/archives/">
+                <span class="site-state-item-count">19</span>
+                <span class="site-state-item-name">日志</span>
+              </a>
+            </div>
+          
+
+          
+            
+            
+            <div class="site-state-item site-state-categories">
+              <a href="/categories/index.html">
+                <span class="site-state-item-count">8</span>
+                <span class="site-state-item-name">分类</span>
+              </a>
+            </div>
+          
+
+          
+            
+            
+            <div class="site-state-item site-state-tags">
+              <a href="/tags/index.html">
+                <span class="site-state-item-count">35</span>
+                <span class="site-state-item-name">标签</span>
+              </a>
+            </div>
+          
+
+        </nav>
+
+        
+          <div class="feed-link motion-element">
+            <a href="/atom.xml" rel="alternate">
+              <i class="fa fa-rss"></i>
+              RSS
+            </a>
+          </div>
+        
+
+        <div class="links-of-author motion-element">
+          
+        </div>
+
+        
+        
+
+        
+        
+
+        
+
+
+      </section>
+
       
-        <a href="/atom.xml" class="social rss"
-          target="_blank" rel="external">
-          <span class="icon icon-rss"></span>
-        </a>
+
       
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright" >
+  
+  &copy; 
+  <span itemprop="copyrightYear">2017</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Jeff</span>
+</div>
+
+
+<div class="powered-by">
+  由 <a class="theme-link" href="https://hexo.io">Hexo</a> 强力驱动
+</div>
+
+<div class="theme-info">
+  主题 -
+  <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
+    NexT.Muse
+  </a>
+</div>
+
+
+        
+
+        
+      </div>
+    </footer>
+
     
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
   </div>
-  
-  <div>Theme <a href='https://github.com/stkevintan/hexo-theme-material-flow' class="codename">MaterialFlow</a> designed by <a href="http://keyin.me/" target="_blank">Kevin Tan</a>.</div>
-  
-</footer>
 
-
-  <script>setLoadingBarProgress(80);</script>
   
 
-<script src="//apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src='//cdn.bootcss.com/node-waves/0.7.5/waves.min.js'></script>
-<script src="//cdn.bootcss.com/scrollReveal.js/3.3.2/scrollreveal.min.js"></script>
-<script src="/js/jquery.fitvids.js"></script>
-<script>
-	var GOOGLE_CUSTOM_SEARCH_API_KEY = "";
-	var GOOGLE_CUSTOM_SEARCH_ENGINE_ID = "";
-	var ALGOLIA_API_KEY = "";
-	var ALGOLIA_APP_ID = "";
-	var ALGOLIA_INDEX_NAME = "";
-  var AZURE_SERVICE_NAME = "";
-  var AZURE_INDEX_NAME = "";
-  var AZURE_QUERY_KEY = "";
-  var BAIDU_API_ID = "";
-  var SEARCH_SERVICE = "hexo";
-  var ROOT = "/"||"/";
-  if(!ROOT.endsWith('/'))ROOT += '/';
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
 </script>
-<script src="/js/search.js"></script>
-<script src="/js/app.js"></script>
 
 
-  <script>setLoadingBarProgress(100);</script>
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+
+  
+  <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+
+  
+  <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+
+  
+  <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.1"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.1"></script>
+
+
+
+  
+  
+
+  
+    <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.1"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.1"></script>
+
+  
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.1"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+  <script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"></script>
+  <script>AV.initialize("ca0GGqY3S70uNBoHNS6H45r9-gzGzoHsz", "jANUSxC1bKJDNtXzFx0QMoSa");</script>
+  <script>
+    function showTime(Counter) {
+      var query = new AV.Query(Counter);
+      var entries = [];
+      var $visitors = $(".leancloud_visitors");
+
+      $visitors.each(function () {
+        entries.push( $(this).attr("id").trim() );
+      });
+
+      query.containedIn('url', entries);
+      query.find()
+        .done(function (results) {
+          var COUNT_CONTAINER_REF = '.leancloud-visitors-count';
+
+          if (results.length === 0) {
+            $visitors.find(COUNT_CONTAINER_REF).text(0);
+            return;
+          }
+
+          for (var i = 0; i < results.length; i++) {
+            var item = results[i];
+            var url = item.get('url');
+            var time = item.get('time');
+            var element = document.getElementById(url);
+
+            $(element).find(COUNT_CONTAINER_REF).text(time);
+          }
+          for(var i = 0; i < entries.length; i++) {
+            var url = entries[i];
+            var element = document.getElementById(url);
+            var countSpan = $(element).find(COUNT_CONTAINER_REF);
+            if( countSpan.text() == '') {
+              countSpan.text(0);
+            }
+          }
+        })
+        .fail(function (object, error) {
+          console.log("Error: " + error.code + " " + error.message);
+        });
+    }
+
+    function addCount(Counter) {
+      var $visitors = $(".leancloud_visitors");
+      var url = $visitors.attr('id').trim();
+      var title = $visitors.attr('data-flag-title').trim();
+      var query = new AV.Query(Counter);
+
+      query.equalTo("url", url);
+      query.find({
+        success: function(results) {
+          if (results.length > 0) {
+            var counter = results[0];
+            counter.fetchWhenSave(true);
+            counter.increment("time");
+            counter.save(null, {
+              success: function(counter) {
+                var $element = $(document.getElementById(url));
+                $element.find('.leancloud-visitors-count').text(counter.get('time'));
+              },
+              error: function(counter, error) {
+                console.log('Failed to save Visitor num, with error message: ' + error.message);
+              }
+            });
+          } else {
+            var newcounter = new Counter();
+            /* Set ACL */
+            var acl = new AV.ACL();
+            acl.setPublicReadAccess(true);
+            acl.setPublicWriteAccess(true);
+            newcounter.setACL(acl);
+            /* End Set ACL */
+            newcounter.set("title", title);
+            newcounter.set("url", url);
+            newcounter.set("time", 1);
+            newcounter.save(null, {
+              success: function(newcounter) {
+                var $element = $(document.getElementById(url));
+                $element.find('.leancloud-visitors-count').text(newcounter.get('time'));
+              },
+              error: function(newcounter, error) {
+                console.log('Failed to create');
+              }
+            });
+          }
+        },
+        error: function(error) {
+          console.log('Error:' + error.code + " " + error.message);
+        }
+      });
+    }
+
+    $(function() {
+      var Counter = AV.Object.extend("Counter");
+      if ($('.leancloud_visitors').length == 1) {
+        addCount(Counter);
+      } else if ($('.post-title-link').length > 1) {
+        showTime(Counter);
+      }
+    });
+  </script>
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
 </body>
 </html>

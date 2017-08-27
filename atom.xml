@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Notepad blog</title>
-  <subtitle>edit by markdown</subtitle>
+  <title>Jeff&#39;s Blog</title>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://arroganttonone.club/"/>
-  <updated>2017-08-26T13:22:56.165Z</updated>
+  <updated>2017-08-27T07:51:00.868Z</updated>
   <id>http://arroganttonone.club/</id>
   
   <author>
@@ -20,11 +20,18 @@
     <link href="http://arroganttonone.club/2017/08/26/%E4%BA%BA%E7%B1%BB%E7%BE%A4%E6%98%9F%E9%97%AA%E8%80%80%E6%97%B6%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
     <id>http://arroganttonone.club/2017/08/26/人类群星闪耀时读后感/</id>
     <published>2017-08-26T12:50:08.000Z</published>
-    <updated>2017-08-26T13:22:56.165Z</updated>
+    <updated>2017-08-27T07:51:00.868Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;人类群星闪耀时-1-footnote&quot;&gt;&lt;a href=&quot;#人类群星闪耀时-1-footnote&quot; class=&quot;headerlink&quot; title=&quot;人类群星闪耀时^1_footnote&quot;&gt;&lt;/a&gt;人类群星闪耀时&lt;a href=&quot;茨威格著&quot;&gt;^1_footnot
+      &lt;h1 id=&quot;人类群星闪耀时&quot;&gt;&lt;a href=&quot;#人类群星闪耀时&quot; class=&quot;headerlink&quot; title=&quot;人类群星闪耀时&quot;&gt;&lt;/a&gt;人类群星闪耀时&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://os9j59rou.bkt.clouddn.com/renlei.jpg?imageView/2/w/450&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;这本书曾经是我高中入学时学校推荐的一本必读书籍，当时有一只学习机，便从网上搜来各种资源，有小说，有文学作品，这本书也在其中。可当时打开学习机发现，里面的内容是乱码，所以没有阅读的机会，直到这个暑假。&lt;/p&gt;
+&lt;p&gt;同样，还有很多久闻大名却还没有真正读过的书籍，比如说《近距离看美国》系列，《必然》等。&lt;/p&gt;
+&lt;p&gt;不知怎的，或许是高中对她的印象就不好把，以为和《全球通史》一样，都是讲历史的，一个时期一个时期讲过来，就像干必要且没有乐趣的农活，说实话，《全球通史》我也没看过。&lt;/p&gt;
+&lt;p&gt;但事实上并不是这样的，我之前这么想，说明我连这个书名也没有理解。人类群星闪耀时，其实就是把人类历史浓缩成几个有意义的转折点，然后以各种表现方式，最多的是记叙，也有诗歌，和剧本，来还原当时的场景。这可以算是作者以自己的角度来对世界描述那一段历史，我觉得，很有可能不是那个历史本身，但我们若是可以借着作者的立场起码了解一下这些历史性时刻，也是一件乐事。&lt;/p&gt;
+&lt;p&gt;作者真的是别具一格，如之前介绍的，文学体裁方面，记叙，诗歌，剧本，没有看到过哪一本书是这样来组织的，当然，从侧面表示我看书较少。&lt;/p&gt;
+&lt;p&gt;从题材的选择上面，有描写新大陆的发现，有对音乐家，作曲家，军人，政治家，作家的描写，但这些描写都不是为了说明这些人的伟大，而是这些人的某一个伟大的时刻，所以，作者描写的这些人中间，有很多不适合我们平常意义上伟人的称呼，有些甚至是逃犯，流氓，普通军人，第二名。&lt;/p&gt;
+&lt;p&gt;接下来，我想分享一下对书中具体内容的看法。&lt;/p&gt;
     
     </summary>
     
@@ -42,17 +49,15 @@
     <link href="http://arroganttonone.club/2017/08/11/learning-objectives/"/>
     <id>http://arroganttonone.club/2017/08/11/learning-objectives/</id>
     <published>2017-08-11T10:08:08.000Z</published>
-    <updated>2017-08-18T13:51:00.000Z</updated>
+    <updated>2017-08-27T07:49:12.439Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;#week 1 Part 2 &lt;/p&gt;
-&lt;p&gt;##describe the basic class of cells found in the Sentra nervous system (CNS)&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;- Neuron
-- Neuralgia 
-- Vascular endothelium
-- 
-&lt;/code&gt;&lt;/pre&gt;
+      &lt;h1 id=&quot;week-1-Part-2&quot;&gt;&lt;a href=&quot;#week-1-Part-2&quot; class=&quot;headerlink&quot; title=&quot;week 1 Part 2&quot;&gt;&lt;/a&gt;week 1 Part 2&lt;/h1&gt;&lt;h2 id=&quot;describe-the-basic-class-of-cells-found-in-the-Sentra-nervous-system-CNS&quot;&gt;&lt;a href=&quot;#describe-the-basic-class-of-cells-found-in-the-Sentra-nervous-system-CNS&quot; class=&quot;headerlink&quot; title=&quot;describe the basic class of cells found in the Sentra nervous system (CNS)&quot;&gt;&lt;/a&gt;describe the basic class of cells found in the Sentra nervous system (CNS)&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Neuron&lt;/li&gt;
+&lt;li&gt;Neuralgia &lt;/li&gt;
+&lt;li&gt;Vascular endothelium&lt;/li&gt;
+&lt;/ul&gt;
     
     </summary>
     
@@ -68,7 +73,7 @@
     <link href="http://arroganttonone.club/2017/08/11/neuroscience-week1-record/"/>
     <id>http://arroganttonone.club/2017/08/11/neuroscience-week1-record/</id>
     <published>2017-08-11T10:08:08.000Z</published>
-    <updated>2017-08-13T03:35:33.000Z</updated>
+    <updated>2017-08-27T07:49:13.153Z</updated>
     
     <summary type="html">
     
@@ -139,7 +144,7 @@
     <link href="http://arroganttonone.club/2017/08/03/PR%E5%88%86%E4%BA%AB/"/>
     <id>http://arroganttonone.club/2017/08/03/PR分享/</id>
     <published>2017-08-03T10:08:08.000Z</published>
-    <updated>2017-08-06T04:03:34.000Z</updated>
+    <updated>2017-08-27T07:49:10.903Z</updated>
     
     <summary type="html">
     
@@ -426,32 +431,6 @@
   </entry>
   
   <entry>
-    <title>关于黄疸</title>
-    <link href="http://arroganttonone.club/2017/03/08/2017-04-15%E9%BB%84%E7%96%B8/"/>
-    <id>http://arroganttonone.club/2017/03/08/2017-04-15黄疸/</id>
-    <published>2017-03-08T14:12:43.000Z</published>
-    <updated>2017-06-29T15:43:02.345Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;jaundice-黄疸&quot;&gt;&lt;a href=&quot;#jaundice-黄疸&quot; class=&quot;headerlink&quot; title=&quot;jaundice 黄疸&quot;&gt;&lt;/a&gt;jaundice 黄疸&lt;/h1&gt;&lt;p&gt;由于胆红素（bilirubin）在组织中推及，引起的皮肤，眼结膜，黏膜变黄。一般是由肝病和胆道疾病引起的。&lt;/p&gt;
-&lt;p&gt;早在希波克拉底时期，就有对黄疸的论述了，在十九世纪，就有了对黄疸的分类了。由胆道阻塞引起的，和不由其引起的。直到二十世纪，人们阐明了胆红素的代谢过程以及相应的检查技术得到发展，才得以对大部分黄疸病例给出解释。&lt;/p&gt;
-&lt;p&gt;虽然技术先进了，但是仍然要以耐心仔细的筛查和合适的诊断和治疗手段为基础，来对一些疑似的病例进行区分。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="医学笔记" scheme="http://arroganttonone.club/categories/%E5%8C%BB%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="jaundice" scheme="http://arroganttonone.club/tags/jaundice/"/>
-    
-      <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
-    
-      <category term="黄疸" scheme="http://arroganttonone.club/tags/%E9%BB%84%E7%96%B8/"/>
-    
-  </entry>
-  
-  <entry>
     <title>医院常检查  血常规 complete blood test （CBC）</title>
     <link href="http://arroganttonone.club/2017/03/08/2017-03-08%E8%A1%80%E5%B8%B8%E8%A7%84/"/>
     <id>http://arroganttonone.club/2017/03/08/2017-03-08血常规/</id>
@@ -473,9 +452,35 @@
       <category term="医学笔记" scheme="http://arroganttonone.club/categories/%E5%8C%BB%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
     
     
+      <category term="CBC" scheme="http://arroganttonone.club/tags/CBC/"/>
+    
       <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
     
-      <category term="CBC" scheme="http://arroganttonone.club/tags/CBC/"/>
+  </entry>
+  
+  <entry>
+    <title>关于黄疸</title>
+    <link href="http://arroganttonone.club/2017/03/08/2017-04-15%E9%BB%84%E7%96%B8/"/>
+    <id>http://arroganttonone.club/2017/03/08/2017-04-15黄疸/</id>
+    <published>2017-03-08T14:12:43.000Z</published>
+    <updated>2017-06-29T15:43:02.345Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;jaundice-黄疸&quot;&gt;&lt;a href=&quot;#jaundice-黄疸&quot; class=&quot;headerlink&quot; title=&quot;jaundice 黄疸&quot;&gt;&lt;/a&gt;jaundice 黄疸&lt;/h1&gt;&lt;p&gt;由于胆红素（bilirubin）在组织中推及，引起的皮肤，眼结膜，黏膜变黄。一般是由肝病和胆道疾病引起的。&lt;/p&gt;
+&lt;p&gt;早在希波克拉底时期，就有对黄疸的论述了，在十九世纪，就有了对黄疸的分类了。由胆道阻塞引起的，和不由其引起的。直到二十世纪，人们阐明了胆红素的代谢过程以及相应的检查技术得到发展，才得以对大部分黄疸病例给出解释。&lt;/p&gt;
+&lt;p&gt;虽然技术先进了，但是仍然要以耐心仔细的筛查和合适的诊断和治疗手段为基础，来对一些疑似的病例进行区分。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="医学笔记" scheme="http://arroganttonone.club/categories/%E5%8C%BB%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="检验" scheme="http://arroganttonone.club/tags/%E6%A3%80%E9%AA%8C/"/>
+    
+      <category term="jaundice" scheme="http://arroganttonone.club/tags/jaundice/"/>
+    
+      <category term="黄疸" scheme="http://arroganttonone.club/tags/%E9%BB%84%E7%96%B8/"/>
     
   </entry>
   
